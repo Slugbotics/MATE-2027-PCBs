@@ -85,20 +85,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "power_board.kicad_pro",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 0,
-          "pos_y": 24,
-          "size_x": 2560,
-          "size_y": 1576
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "hierarchy_collapsed": [],
